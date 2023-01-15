@@ -1,0 +1,18 @@
+[
+   {
+      "site": "Progenix",
+      "container": "#content",
+      "item": ".product-thumb",
+      "name": ".caption h4 a",
+      "price": ".caption .price",
+      "image": ".image img",
+      "format": "?page={}",
+      "links" : [
+         {
+               "category":"Graphics Card",
+               "url":"https://progenix.co.za/Components/Graphics-Cards",
+               "pages":3
+         }
+      ]
+   }
+]

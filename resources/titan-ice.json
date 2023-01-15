@@ -1,0 +1,80 @@
+[
+    {
+        "site": "Titan-Ice",
+        "container": ".grid-list",
+        "item": ".ty-column3",
+        "name": ".product-title",
+        "price": ".ty-list-price",
+        "image": ".ty-grid-list__image img",
+        "format": "page-{}/",
+        "links" : [
+            
+            {
+               "category":"Processors",
+               "url":"https://www.titan-ice.co.za/hardware/processors/",
+               "filter": "?items_per_page=96",
+               "pages":1
+            },
+            {
+               "category":"Memory",
+               "url":"https://www.titan-ice.co.za/hardware/memory/",
+               "filter": "?items_per_page=96",
+               "pages":8
+            },
+            {
+               "category":"CPU Cooler",
+               "url":"https://www.titan-ice.co.za/hardware/air-cooling/?features_hash=7-5485/",
+               "filter": "?items_per_page=96",               
+               "pages":1
+            },
+            {
+               "category":"CPU Cooler",
+               "url":"https://www.titan-ice.co.za/hardware/water-cooling/?features_hash=125-6390//",
+               "filter": "?items_per_page=96",   
+               "pages":1
+            },
+            {
+               "category":"Case",
+               "url":"https://www.titan-ice.co.za/hardware/chassis/",
+               "filter": "?items_per_page=96",
+               "pages":6
+            },
+            {
+               "category":"Case Fans",
+               "url":"https://www.titan-ice.co.za/hardware/air-cooling/?features_hash=7-5483/",
+               "filter": "?items_per_page=96",               
+               "pages":3
+            },
+            {
+               "category":"Hard Drive",
+               "url":"https://www.titan-ice.co.za/hardware/hard-drives/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            },
+            {
+               "category":"Solid State Drive",
+               "url":"https://www.titan-ice.co.za/hardware/solid-state-drives/",
+               "filter": "?items_per_page=96",
+               "pages":3
+            },
+            {
+               "category":"Monitor",
+               "url":"https://www.titan-ice.co.za/peripherals/monitors/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            },
+            {
+               "category":"Motherboard",
+               "url":"https://www.titan-ice.co.za/hardware/motherboards/",
+               "filter": "?items_per_page=96",
+               "pages":3
+            },
+            {
+               "category":"Power Supply",
+               "url":"https://www.titan-ice.co.za/hardware/power-supplies/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            }
+        ]
+    }
+]

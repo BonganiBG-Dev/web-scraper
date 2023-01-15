@@ -1,0 +1,264 @@
+[
+    {
+        "site": "Evetech",
+        "container": ".product-row",
+        "item": ".product-block-grid .product-inner2",
+        "name": ".myProductName",
+        "price": ".price",
+        "image": ".image2 img",
+        "format": "",
+        "links" : [
+           {
+           "category":"Graphics Card",
+           "url":"https://www.evetech.co.za/components/nvidia-ati-graphics-cards-21.aspx",
+           "filter": "",
+           "pages": 1
+           },
+           {
+              "category":"Processors",
+              "url":"https://www.evetech.co.za/components/buy-cpu-processors-online-164.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Memory",
+              "url":"https://www.evetech.co.za/components/ddr3-gaming-ram-modules-20.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Solid State Drive",
+              "url":"https://www.evetech.co.za/components/ssds-63.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Motherboard",
+              "url":"https://www.evetech.co.za/components/cheap-intel-amd-based-motherboards-19.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"CPU Cooler",
+              "url":"https://www.evetech.co.za/components/cpu-coolers-65.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Hard Drive",
+              "url":"https://www.evetech.co.za/components/hard-drives-124.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Case",
+              "url":"https://www.evetech.co.za/components/computer-cases-70.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Power Supply",
+              "url":"https://www.evetech.co.za/components/power-supply-73.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Monitor",
+              "url":"https://www.evetech.co.za/components/monitor-87.aspx",
+              "filter": "",
+              "pages": 1
+           },
+           {
+              "category":"Case Fans",
+              "url":"https://www.evetech.co.za/PC-Components/case-fans-97.aspx",
+              "filter": "",
+              "pages": 1
+           }
+        ]
+     },
+     {
+        "site": "Dreamware",
+        "container": ".products",
+        "item": ".product",
+        "name": ".product-box-name",
+        "price": ".product-price",
+        "image": ".product-image img",
+        "format": "?page={}",
+        "links" : [
+           {
+                 "category":"Graphics Card",
+                 "url":"https://www.dreamwaretech.co.za/c/computer-components/graphics-cards-gpus/nvidia-graphics-cards/",
+                 "filter": "",
+                 "pages":7
+           },
+           {
+              "category":"Graphics Card",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/graphics-cards-gpus/amd-graphics-cards/",
+              "filter": "",
+              "pages":2
+           },
+           {
+              "category":"Processors",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/processors-cpus/intel-processors/",
+              "filter": "",
+              "pages":5
+           },
+           {
+              "category":"Processors",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/processors-cpus/amd-processors/",
+              "filter": "",
+              "pages":2
+           },
+           {
+              "category":"Memory",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/memory-ram/ddr4-desktop-pc-memory/",
+              "filter": "",
+              "pages":23
+           },
+           {
+              "category":"Memory",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/memory-ram/ddr5-desktop-memory/",
+              "filter": "",
+              "pages": 3
+           },
+           {
+              "category":"CPU Cooler",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/computer-cooling/cpu-coolers/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Case",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/pc-cases-chassis/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Case Fans",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/computer-cooling/pc-case-fans/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Hard Drive",
+              "url":"https://www.dreamwaretech.co.za/c/storage/3-5-internal-hard-disk-drives-hdd/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Solid State Drive",
+              "url":"https://www.dreamwaretech.co.za/c/storage/solid-state-drives-ssd/2-5-solid-state-drives/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Solid State Drive",
+              "url":"https://www.dreamwaretech.co.za/c/storage/solid-state-drives-ssd/m-2-solid-state-drives/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Monitor",
+              "url":"https://www.dreamwaretech.co.za/c/pc-monitors-mounts/pc-monitors/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Motherboard",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/motherboards/amd-motherboards/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Motherboard",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/motherboards/intel-motherboards/",
+              "filter": "",
+              "pages":3
+           },
+           {
+              "category":"Power Supply",
+              "url":"https://www.dreamwaretech.co.za/c/computer-components/power-supplies-psus/",
+              "filter": "",
+              "pages":3
+           }
+        ]
+     },
+     {
+        "site": "Titan-Ice",
+        "container": ".grid-list",
+        "item": ".ty-column3",
+        "name": ".product-title",
+        "price": ".ty-list-price",
+        "image": ".ty-grid-list__image img",
+        "format": "page-{}/",
+        "links" : [
+            
+            {
+               "category":"Processors",
+               "url":"https://www.titan-ice.co.za/hardware/processors/",
+               "filter": "?items_per_page=96",
+               "pages":1
+            },
+            {
+               "category":"Memory",
+               "url":"https://www.titan-ice.co.za/hardware/memory/",
+               "filter": "?items_per_page=96",
+               "pages":8
+            },
+            {
+               "category":"CPU Cooler",
+               "url":"https://www.titan-ice.co.za/hardware/air-cooling/?features_hash=7-5485/",
+               "filter": "?items_per_page=96",               
+               "pages":1
+            },
+            {
+               "category":"CPU Cooler",
+               "url":"https://www.titan-ice.co.za/hardware/water-cooling/?features_hash=125-6390//",
+               "filter": "?items_per_page=96",   
+               "pages":1
+            },
+            {
+               "category":"Case",
+               "url":"https://www.titan-ice.co.za/hardware/chassis/",
+               "filter": "?items_per_page=96",
+               "pages":6
+            },
+            {
+               "category":"Case Fans",
+               "url":"https://www.titan-ice.co.za/hardware/air-cooling/?features_hash=7-5483/",
+               "filter": "?items_per_page=96",               
+               "pages":3
+            },
+            {
+               "category":"Hard Drive",
+               "url":"https://www.titan-ice.co.za/hardware/hard-drives/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            },
+            {
+               "category":"Solid State Drive",
+               "url":"https://www.titan-ice.co.za/hardware/solid-state-drives/",
+               "filter": "?items_per_page=96",
+               "pages":3
+            },
+            {
+               "category":"Monitor",
+               "url":"https://www.titan-ice.co.za/peripherals/monitors/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            },
+            {
+               "category":"Motherboard",
+               "url":"https://www.titan-ice.co.za/hardware/motherboards/",
+               "filter": "?items_per_page=96",
+               "pages":3
+            },
+            {
+               "category":"Power Supply",
+               "url":"https://www.titan-ice.co.za/hardware/power-supplies/",
+               "filter": "?items_per_page=96",
+               "pages":2
+            }
+        ]
+    }
+]

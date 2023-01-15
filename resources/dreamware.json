@@ -1,0 +1,109 @@
+[
+   {
+      "site": "Dreamware",
+      "container": ".products",
+      "item": ".product",
+      "name": ".product-box-name",
+      "price": ".product-price",
+      "image": ".product-image img",
+      "format": "?page={}",
+      "links" : [
+         {
+               "category":"Graphics Card",
+               "url":"https://www.dreamwaretech.co.za/c/computer-components/graphics-cards-gpus/nvidia-graphics-cards/",
+               "filter": "",
+               "pages":7
+         },
+         {
+            "category":"Graphics Card",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/graphics-cards-gpus/amd-graphics-cards/",
+            "filter": "",
+            "pages":2
+         },
+         {
+            "category":"Processors",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/processors-cpus/intel-processors/",
+            "filter": "",
+            "pages":5
+         },
+         {
+            "category":"Processors",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/processors-cpus/amd-processors/",
+            "filter": "",
+            "pages":2
+         },
+         {
+            "category":"Memory",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/memory-ram/ddr4-desktop-pc-memory/",
+            "filter": "",
+            "pages":23
+         },
+         {
+            "category":"Memory",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/memory-ram/ddr5-desktop-memory/",
+            "filter": "",
+            "pages": 3
+         },
+         {
+            "category":"CPU Cooler",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/computer-cooling/cpu-coolers/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Case",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/pc-cases-chassis/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Case Fans",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/computer-cooling/pc-case-fans/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Hard Drive",
+            "url":"https://www.dreamwaretech.co.za/c/storage/3-5-internal-hard-disk-drives-hdd/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Solid State Drive",
+            "url":"https://www.dreamwaretech.co.za/c/storage/solid-state-drives-ssd/2-5-solid-state-drives/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Solid State Drive",
+            "url":"https://www.dreamwaretech.co.za/c/storage/solid-state-drives-ssd/m-2-solid-state-drives/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Monitor",
+            "url":"https://www.dreamwaretech.co.za/c/pc-monitors-mounts/pc-monitors/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Motherboard",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/motherboards/amd-motherboards/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Motherboard",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/motherboards/intel-motherboards/",
+            "filter": "",
+            "pages":3
+         },
+         {
+            "category":"Power Supply",
+            "url":"https://www.dreamwaretech.co.za/c/computer-components/power-supplies-psus/",
+            "filter": "",
+            "pages":3
+         }
+      ]
+   }
+]

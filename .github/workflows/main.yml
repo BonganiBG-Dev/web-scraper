@@ -1,0 +1,13 @@
+name: PPP Scraper Scheduler
+
+on:
+  schedule:
+    - cron: "30 * * * *"
+
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scrape Evetech
+        run: curl https://ppp-scraper.herokuapp.com/scrape?file=all          
